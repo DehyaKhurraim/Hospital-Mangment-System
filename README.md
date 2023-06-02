@@ -3,6 +3,9 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/hospital-management-system/blob/main/LICENSE)
 [![Laravel](https://img.shields.io/badge/laravel-8.x-red.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/php-7.4%2B-purple.svg)](https://www.php.net)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg)](https://www.mysql.com)
 
 A Hospital Management System built with Laravel, a popular PHP framework, designed to automate and streamline the processes within a hospital or medical facility. This system offers a comprehensive set of features to manage patients, doctors, appointments, medical records, billing, and more.
