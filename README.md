@@ -1,12 +1,17 @@
 # Laravel Hospital Management System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/hospital-management-system/blob/main/LICENSE)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 [![Laravel](https://img.shields.io/badge/laravel-8.x-red.svg)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/php-7.4%2B-purple.svg)](https://www.php.net)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg)](https://www.mysql.com)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![made-with-javascript](https://img.shields.io/badge/Frontend%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![made-with-php](https://img.shields.io/badge/Backend%20with-Laravel-1f425f.svg)](https://www.php.com)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 A Hospital Management System built with Laravel, a popular PHP framework, designed to automate and streamline the processes within a hospital or medical facility. This system offers a comprehensive set of features to manage patients, doctors, appointments, medical records, billing, and more.
 
@@ -69,6 +74,8 @@ A Hospital Management System built with Laravel, a popular PHP framework, design
 Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request. Please make sure to follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DehyaKhurraim/Hospital-Mangment-System/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/DehyaKhurraim/Hospital-Mangment-System/releases)
 
 This project is open source and available under the [MIT License](LICENSE).
 
