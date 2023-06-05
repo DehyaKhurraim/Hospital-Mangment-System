@@ -1,7 +1,7 @@
 # Laravel Hospital Management System
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-[![Laravel](https://img.shields.io/badge/laravel-8.x-red.svg)](https://laravel.com)
+![Laravel]https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -9,9 +9,9 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![made-with-javascript](https://img.shields.io/badge/Frontend%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![made-with-php](https://img.shields.io/badge/Backend%20with-Laravel-1f425f.svg)](https://www.php.com)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![made-with-javascript](https://img.shields.io/badge/Frontend%20with-JavaScript-1f425f.svg)]
+[![made-with-php](https://img.shields.io/badge/Backend%20with-Laravel-1f425f.svg)]
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]
 
 A Hospital Management System built with Laravel, a popular PHP framework, designed to automate and streamline the processes within a hospital or medical facility. This system offers a comprehensive set of features to manage patients, doctors, appointments, medical records, billing, and more.
 
